@@ -7,3 +7,5 @@ How to use the application:
    Username: Moe Password: 222
 3. In the second username text field of the page enter the username of the other active user to see messages
 4. Now type into the text box to communicate with the other browser
+
+5. https://web.njit.edu/~knp24/chat.php
